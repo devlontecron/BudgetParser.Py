@@ -1,12 +1,12 @@
 # BudgetParser.Py
 Python project to extract, label, and aggregate expenses from a formatted text file.
-To run, call script with arg1= BudgetKeys.json and arg2=inputTextfile (& python budgetParser.py BudgetKeys.json sample.txt)
+To run, call script with arg1= BudgetKeys.json and arg2=inputTextfile (& python budgetParser.py BudgetKeys.json sample.txt.)
 
 ## Problem Statement:
 Develop a program to label and aggregate expenses from a formatted text file.
 ### Sub problem:
-Be able to handle unexpected descriptors in transactions and create labels for future use
-Be able to store tags without the use of a database and still recall for future use
+Be able to handle unexpected descriptors in transactions and create labels for future use.<br>
+Be able to store tags without the use of a database and still recall for future use.
 
 ## Personal Review:
 This project came from wanting to simplify and more personally track expenses for my finances. I noticed having this close granular control on tagging allowed me to categorize transactions more clearly that made sense to me. For example, noting the difference between lunch from work and just eating out in general.<br><br>
