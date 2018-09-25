@@ -1,0 +1,16 @@
+Description                                                                                      Summary Amt.
+Beginning balance as of 07/01/2018                                                                   1,000.00
+Total credits                                                                                        1,000.00
+Total debits                                                                                        -0
+Ending balance as of 07/31/2018                                                                      1,000.00
+                                                                                                               
+                                                                                                               
+Date           Description                                                                  Amount Running Bal.
+07/02/2018     VENMO-       103.50     REDACTED
+07/02/2018     USCONNECT-                                      -1.19     REDACTED
+07/02/2018     AMAZON.COM-                            -61.28     REDACTED
+07/02/2018     GREAT CLIPS                                  -18.00     REDACTED
+07/02/2018     SDOT PAYBYPHONE PARKING PURCHASE SEATTLE WA                                   -6.53     REDACTED
+07/02/2018     APIZZAMARTST                                       -15.51     REDACTED
+07/02/2018     7-ELEVEN                                                 -3.99     REDACTED
+07/02/2018     LYFT                                                                   -50.00     REDACTED

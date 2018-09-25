@@ -1,0 +1,105 @@
+{
+    "Map":[
+        {
+            "label":"Taxi",
+            "keywords":["LYFT","UBER"]
+        },
+        {
+            "label":"Coffee",
+            "keywords":["STARBUCKS","PETES", "BLACK ROCK", "COFFEE", "DUTCHBRO"]
+        },
+        {
+            "label":"Grocery",
+            "keywords":["QFC", "SAFEWAY", "WINCO", "BARTELL", "WALGREENS"
+                , "FRED-MEYE"]
+        },
+
+        {
+            "label":"Quick Shopping",
+            "keywords":["WAL-MART","7-ELEVEN", "BARTELL", "WALGREENS"]
+        },
+        {
+            "label":"Shopping",
+            "keywords":["AMAZON"]
+        },
+        {
+            "label":"Lunch",
+            "keywords":["TOKYO JAPANESE RESTAURA", "USCONNECT", "PEACH LABS", 
+                "CHIPOTLE 2575", "SQUARE LOTUS","OOBA TOOBAS", "QDOBA", "TERIYAKI TIME",
+                "CHAI TWAIWA"
+            ]
+        },
+        {
+            "label":"Home Improvement",
+            "keywords":["HOME DEPOT", "LOWE'S", "IKEA"]
+        },
+        {
+            "label":"Bars",
+            "keywords":["COMET TAVERN", "PARAGON","TOP OF TACOMA"]
+        },
+        {
+            "label":"Going Out / Fun",
+            "keywords":["REGAL","VIRTUAL SPORTS", "PIE BAR", "FIREWORKS", "SILVER FALLS"]
+        },
+        {
+            "label":"Eating Out",
+            "keywords":["APIZZAMARTST","HOT CAKES","LI'L WOODY'S","MCDONALD",
+            "RED ROBIN", "SWEET TOMATOES", "STANLEYS CORNER", "BIG MARIOS",
+            "TAQUERIA", "PORTAGE BAY","FRANKIE & JO'S"]
+        },
+        {
+            "label":"BILL: Loans",
+            "keywords":["FEDLOANSERVICING"]
+        },
+        {
+            "label":"BILL: Internet",
+            "keywords":["WAVE BROADBAND"]
+        },
+        {
+            "label":"BILL: BofA",
+            "keywords":["BANK OF AMERICA"]
+        },
+        {
+            "label":"BILL: Spotify",
+            "keywords":["SPOTIFY"]
+        },
+        {
+            "label":"BILL: Health",
+            "keywords":["PETER SHALIT"]
+        },
+        {
+            "label":"Car",
+            "keywords":["PAYBYPHONE", "ARCO", "ASTRO", "SHELL", "CHEVRON","CARWASH"]
+        },
+        {
+            "label":"Personal Care",
+            "keywords":["GREAT CLIPS"]
+        },
+        {
+            "label":"Venmo",
+            "keywords":["VENMO"]
+        },
+        {
+            "label":"Cash",
+            "keywords":["Check", "atm"]
+        },
+        {
+            "label":"T-Mobile",
+            "keywords":["T-MOBILE"]
+        },
+        {
+            "label":"BILL: Rent",
+            "keywords":["TIAA-CREF-bacl33"]
+        },
+        
+        {
+            "label":"Fixes",
+            "keywords":["AGI"]
+        }
+
+
+
+
+        
+        ]
+    }
