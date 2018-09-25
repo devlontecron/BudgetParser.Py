@@ -6,50 +6,65 @@
         },
         {
             "label":"Coffee",
-            "keywords":["STARBUCKS","PETES", "BLACK ROCK", "COFFEE", "DUTCHBRO"]
+            "keywords":["STARBUCKS","PEETS", "BLACK ROCK", "COFFEE", "DUTCHBRO"]
         },
         {
             "label":"Grocery",
             "keywords":["QFC", "SAFEWAY", "WINCO", "BARTELL", "WALGREENS"
-                , "FRED-MEYE"]
-        },
-
-        {
-            "label":"Quick Shopping",
-            "keywords":["WAL-MART","7-ELEVEN", "BARTELL", "WALGREENS"]
+                , "FRED-MEYE","WHOLEFDS","UWAJIMAYA","WAL-MART","7-ELEVEN", "BARTELL", "WALGREENS"]
         },
         {
             "label":"Shopping",
-            "keywords":["AMAZON"]
+            "keywords":["JEWELRY"]
+        },
+        {
+            "label":"Cloths",
+            "keywords":["EXPRESS","JCP","PAYLESS"]
+        },
+
+        {
+            "label":"Amazon",
+            "keywords":["AMAZON","AMZN"]
         },
         {
             "label":"Lunch",
             "keywords":["TOKYO JAPANESE RESTAURA", "USCONNECT", "PEACH LABS", 
                 "CHIPOTLE 2575", "SQUARE LOTUS","OOBA TOOBAS", "QDOBA", "TERIYAKI TIME",
-                "CHAI TWAIWA"
+                "CHAI TWAIWA","GREEK PITA","JIMMY JOHNS","Mr. West"
             ]
         },
         {
             "label":"Home Improvement",
-            "keywords":["HOME DEPOT", "LOWE'S", "IKEA"]
+            "keywords":["HOME DEPOT", "LOWE'S", "IKEA","YOUNG FLOWERS"]
         },
         {
             "label":"Bars",
-            "keywords":["COMET TAVERN", "PARAGON","TOP OF TACOMA"]
+            "keywords":["COMET TAVERN", "PARAGON","TOP OF TACOMA","DOWNWARD DOG","FLAT TAIL","THE CUFF","HULA HULA",
+                "EARL'S ON THE AVE","SANCHO","CC ATTLES","VALLEY GROWLERS","SIDELINE","QUEER BAR","MONTANA"
+            ]
         },
         {
             "label":"Going Out / Fun",
-            "keywords":["REGAL","VIRTUAL SPORTS", "PIE BAR", "FIREWORKS", "SILVER FALLS"]
+            "keywords":["REGAL","VIRTUAL SPORTS", "PIE BAR", "FIREWORKS", "SILVER FALLS","AFTON"
+            ,"TOPGOLF","ANOTHER CASTLE","PACIFIC SCIENCE CENTER","GAMEWORKS"]
         },
         {
             "label":"Eating Out",
             "keywords":["APIZZAMARTST","HOT CAKES","LI'L WOODY'S","MCDONALD",
             "RED ROBIN", "SWEET TOMATOES", "STANLEYS CORNER", "BIG MARIOS",
-            "TAQUERIA", "PORTAGE BAY","FRANKIE & JO'S"]
+            "TAQUERIA", "PORTAGE BAY","FRANKIE & JO'S","GRAMMA'S CORNER","WING STOP","DOMINO'S","SUSHI TODAY",
+            "PAUL'S ITALIAN KITCHEN","BLUE C SUSHI","WILDROSE","A Pizza Mart","EVERGREEN","FINN MAC COOLS","DONUTS",
+            "SIX ARMS","BISCUITS CAFE","GRAMMAS CORNER","BURGERVILLE","BIG HOUSE BBQ","BOMBA FUSION","POSTMATES"
+            
+        ]
         },
         {
             "label":"BILL: Loans",
             "keywords":["FEDLOANSERVICING"]
+        },
+        {
+            "label":"BILL: Car Insurance",
+            "keywords":["PROG DIRECT"]
         },
         {
             "label":"BILL: Internet",
@@ -57,7 +72,7 @@
         },
         {
             "label":"BILL: BofA",
-            "keywords":["BANK OF AMERICA"]
+            "keywords":["BANK OF AMERICA", "Online Banking payment"]
         },
         {
             "label":"BILL: Spotify",
@@ -65,15 +80,27 @@
         },
         {
             "label":"BILL: Health",
-            "keywords":["PETER SHALIT"]
+            "keywords":["PETER SHALIT","AVENUE SMILES"]
+        },
+        {
+            "label":"Weed",
+            "keywords":["Have a Heart"]
         },
         {
             "label":"Car",
-            "keywords":["PAYBYPHONE", "ARCO", "ASTRO", "SHELL", "CHEVRON","CARWASH"]
+            "keywords":["CARWASH","OREILLY","WSDOT"]
         },
         {
-            "label":"Personal Care",
-            "keywords":["GREAT CLIPS"]
+            "label":"Parking",
+            "keywords":["PAYBYPHONE"]
+        },
+        {
+            "label":"Gas",
+            "keywords":["ARCO", "ASTRO", "SHELL", "CHEVRON","TAHOMA EXPRESS"]
+        },
+        {
+            "label":"Haircut",
+            "keywords":["GREAT CLIPS","BISHOPS"]
         },
         {
             "label":"Venmo",
@@ -81,17 +108,28 @@
         },
         {
             "label":"Cash",
-            "keywords":["Check", "atm"]
+            "keywords":["Check", "atm", "DEPOSIT"]
+        },
+        {
+            "label":"Withdrawl",
+            "keywords":["WITHDRWL"]
         },
         {
             "label":"T-Mobile",
-            "keywords":["T-MOBILE"]
+            "keywords":["T-MOBILE USA INC DES:PAYROLL"]
+        },
+        {
+            "label":"BILL: Phone",
+            "keywords":["ID:XXXXX50304"]
         },
         {
             "label":"BILL: Rent",
             "keywords":["TIAA-CREF-bacl33"]
         },
-        
+        {
+            "label":"Travel",
+            "keywords":["AMTRAK", "BOLTBUS","TRIMET","SOUND TRANSIT","WSFERRIES"]
+        },
         {
             "label":"Fixes",
             "keywords":["AGI"]

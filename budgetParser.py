@@ -53,6 +53,11 @@ for key, value in transactions.items():
 for finalKey, finalVal in final.items():
     print(finalKey + " = " + str(finalVal))
 
-print("---------There were " +str(len(noMatch)) + " transactions not matched")
+print("---------There were " +str(len(noMatch)) + " transactions not matched----------")
+otherCost=0
 for descr in noMatch:
-    print(descr)
+    if "Beginning balance" not in descr:
+        print(descr + " = " + str(transactions[descr]))
+        otherCost += transactions[descr]
+
+print("Other = " + str(otherCost))
